@@ -10,10 +10,8 @@ Previously `amcat.nl` allowed any user to create an account and upload articles.
 Unfortunately, because this server was running an older version of the software there was a data breach.
 As a result, this server is discontinued. 
 
-If you are working at the VU or the broader [ccs.amsterdam](https://ccs.amsterdam) research group, you should probably request an account at [vu.amcat.nl](http://vu.amcat.nl). 
-
-We will soon create a server where you can download your existing `amcat.nl` data. 
-If you require access to your data before that site, please contact me at wouter@vanatteveldt.com. 
+If you had an account at `amcat.nl`, you can download your data at [recovery.amcat.nl](https://recovery.amcat.nl).  
+If you are working at the VU or the broader [ccs.amsterdam](https://ccs.amsterdam) research group, you can request an account at [vu.amcat.nl](http://vu.amcat.nl). 
 
 For the future, together with UvA and as part of our OPTED project we are working on a new version of AmCAT that is much easier to install yourself.
 We will also setup an open AmCAT server again as soon as we are sure that this can be done safely and securely. 
