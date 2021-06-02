@@ -16,4 +16,7 @@ If you are working at the VU or the broader [ccs.amsterdam](https://ccs.amsterda
 For the future, together with UvA and as part of our OPTED project we are working on a new version of AmCAT that is much easier to install yourself.
 We will also setup an open AmCAT server again as soon as we are sure that this can be done safely and securely. 
 
+# Website
+[Click here](https://amcat.nl/)
+
 Thanks for your understanding!
